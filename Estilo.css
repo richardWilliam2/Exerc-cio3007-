@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com);
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bebas+Neue&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Kalnia+Glaze:wght@100..700&family=Noto+Serif+Khitan+Small+Script&family=Playwrite+BE+WAL:wght@100..400&display=swap');
+
+.preco{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    color: red;
+
+}
+.descricao{
+    color: black;
+    font-family: "Abel", sans-serif;
+}
+.fundo{
+    background-color: rebeccapurple;
+
+}
+.titulo{
+    background-color: white;
+    font-family: "Abel", sans-serif;
+
+}
+.img{
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img2{
+    height: 50px;
+    margin-left: 0%;
+}
+
+.scroll{
+    background-color: red;
+    font-family: "Abel", sans-serif;
+
+}
